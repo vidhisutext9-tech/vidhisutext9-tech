@@ -1,5 +1,6 @@
 ## Hi vidhi here 👋
-https://link-to-your-animated.gif
+
+![Typing Animation](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
 
 <!--
 **vidhisutext9-tech/vidhisutext9-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
