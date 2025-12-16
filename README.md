@@ -1,6 +1,6 @@
 ## Hi vidhi here 👋
-
-![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+Vidhi Limbachiya
+![Typing Name](https://link-to-your-name-typing-animation.gif)
 
 
 <!--
