@@ -1,6 +1,6 @@
 ## Hi vidhi here 👋
 Vidhi Limbachiya
-![Typing Name](https://link-to-your-name-typing-animation.gif)
+![Typing Name](https://link-to-vidhi limbachiya-typing-animation.gif)
 
 
 <!--
