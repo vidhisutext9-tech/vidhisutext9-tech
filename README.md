@@ -1,6 +1,7 @@
 ## Hi vidhi here 👋
 
-![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
 
 <!--
 **vidhisutext9-tech/vidhisutext9-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
