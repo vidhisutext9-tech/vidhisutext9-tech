@@ -1,6 +1,6 @@
 ## Hi vidhi here 👋
 
-![Typing Animation](https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif)
+![Build Status](https://img.shields.io/github/actions/workflow/status/username/repo/ci.yml)
 
 <!--
 **vidhisutext9-tech/vidhisutext9-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
