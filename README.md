@@ -1,7 +1,4 @@
 ## Hi vidhi here 👋
-Vidhi Limbachiya
-![Typing Name](https://link-to-vidhi limbachiya-typing-animation.gif)
-
 
 <!--
 **vidhisutext9-tech/vidhisutext9-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
