@@ -26,6 +26,9 @@
   - Git & Github
   - SQL
 
+📊 GitHub Stats
+  - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhisutext9-tech&show_icons=true)
+
 🚀 Long-Term Goals
   - Become a skilled software developer
   - Contribute to open-source projects
